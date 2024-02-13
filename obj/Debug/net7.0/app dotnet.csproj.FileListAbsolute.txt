@@ -1,0 +1,14 @@
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\bin\Debug\net7.0\app dotnet.exe
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\bin\Debug\net7.0\app dotnet.deps.json
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\bin\Debug\net7.0\app dotnet.runtimeconfig.json
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\bin\Debug\net7.0\app dotnet.dll
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\bin\Debug\net7.0\app dotnet.pdb
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.AssemblyInfoInputs.cache
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.AssemblyInfo.cs
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.csproj.CoreCompileInputs.cache
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.dll
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\refint\app dotnet.dll
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.pdb
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\app dotnet.genruntimeconfig.cache
+C:\Users\kenia\Documents\ALURA\C#\app dotnet\obj\Debug\net7.0\ref\app dotnet.dll
