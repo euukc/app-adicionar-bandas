@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app dotnet\\app dotnet.csproj": {}
+    "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app-adicionar-bandas\\app-adicionar-bandas\\app dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app dotnet\\app dotnet.csproj": {
+    "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app-adicionar-bandas\\app-adicionar-bandas\\app dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app dotnet\\app dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app-adicionar-bandas\\app-adicionar-bandas\\app dotnet.csproj",
         "projectName": "app dotnet",
-        "projectPath": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app dotnet\\app dotnet.csproj",
+        "projectPath": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app-adicionar-bandas\\app-adicionar-bandas\\app dotnet.csproj",
         "packagesPath": "C:\\Users\\kenia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app dotnet\\obj\\",
+        "outputPath": "C:\\Users\\kenia\\Documents\\ALURA\\C#\\app-adicionar-bandas\\app-adicionar-bandas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenia\\AppData\\Roaming\\NuGet\\NuGet.Config"

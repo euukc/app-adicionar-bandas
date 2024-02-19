@@ -11,7 +11,7 @@ void ExibirMensagemBoasVindas(){
 }
 
 
-void ExigirOpcoesMenu()
+void ExibirOpcoesMenu()
 {
     Console.WriteLine("\nDigite 1 para registrar uma banda");
     Console.WriteLine("Digite 2 para mostrar todas as bandas");
@@ -46,7 +46,7 @@ void RegistrarBandas()
     bandasRegistradas.Add(nomeBanda, new List<int>());
     Console.WriteLine($"A banda {nomeBanda} foi registrada com sucesso!");
     Thread.Sleep(2000);
-    ExigirOpcoesMenu();
+    ExibirOpcoesMenu();
     Console.Clear();
 
 }
@@ -68,7 +68,7 @@ void MostrarBandasRegistradas()
     Console.WriteLine("\nDigite uma tecla para voltar ao menu principal.");
     Console.ReadKey();
     Console.Clear();
-    ExigirOpcoesMenu();
+    ExibirOpcoesMenu();
 }
 
 void AvaliarBanda()
@@ -88,14 +88,14 @@ void AvaliarBanda()
         Console.Write($"A nota {nota} foi registrada com sucesso para a banda {nomeBanda}.");
         Thread.Sleep(3000);
         Console.Clear();
-        ExigirOpcoesMenu();
+        ExibirOpcoesMenu();
 
     } else 
     {
         Console.WriteLine($"A banda {nomeBanda} não foi encontrada!");
         Console.WriteLine("Digite uma tecla para voltar ao menu principal.");
         Console.ReadKey();
-        ExigirOpcoesMenu();
+        ExibirOpcoesMenu();
     }
 
 }
@@ -132,4 +132,4 @@ void ExibirMediaDaBanda()
 
 
 ExibirMensagemBoasVindas();
-ExigirOpcoesMenu();
+ExibirOpcoesMenu();
